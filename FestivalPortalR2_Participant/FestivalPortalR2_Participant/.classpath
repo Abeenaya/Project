@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/com.springsource.org.apache.commons.collections-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/commons-logging-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/javax.servlet.jsp.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.asm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.beans-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.context.support-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.context-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.core-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.expression-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.instrument.tomcat-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.instrument-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.jdbc-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.jms-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.orm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.oxm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.test-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.transaction-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.web.servlet-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/org.springframework.web-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/servlet-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/AddedLibrary/AddedLibrary/mysql-connector-java-5.1.16-bin.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
